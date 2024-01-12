@@ -59,7 +59,7 @@
                     $mail->Host = 'smtp.gmail.com';
                     $mail->SMTPAuth = true;
                     $mail->Username = 'abodunrinoluwatomiwo@gmail.com';
-                    $mail->Password = 'gsnx oklb lfwh rvtr';
+                    $mail->Password = 'hnce tnxp mrgn cxti';
                     $mail->SMTPSecure = 'ssl';
                     $mail->Port = 465;
             
